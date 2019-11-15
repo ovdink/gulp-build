@@ -1,0 +1,28 @@
+{
+  "name": "copacking",
+  "version": "1.0.0",
+  "description": "<3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kirill O.",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-uglify": "^3.0.2",
+    "normalize.css": "^8.0.1"
+  },
+  "dependencies": {
+    "magnific-popup": "^1.1.0",
+    "slick-carousel": "^1.8.1"
+  },
+  "prettier": {
+    "arrowParens": "always",
+    "singleQuote": true
+  }
+}
